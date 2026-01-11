@@ -22,7 +22,7 @@ An intelligent, event-driven Code Review Agent that listens to GitHub Pull Reque
 
 ### 1. Clone & Install
 ```bash
-git clone [https://github.com/YOUR_USERNAME/consuma-bot.git](https://github.com/YOUR_USERNAME/consuma-bot.git)
+git clone https://github.com/pinkman156/consuma-bot.git
 cd consuma-bot
 npm install
 ```
